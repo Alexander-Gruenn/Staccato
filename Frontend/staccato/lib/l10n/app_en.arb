@@ -1,0 +1,204 @@
+{
+  "language": "English",
+  "@language": {
+    "description": "The current Language"
+  },
+
+  "english": "English",
+  "@english": {
+    "description": "The language english"
+  },
+
+  "german": "German (Deutsch)",
+  "@german": {
+    "description": "The language german"
+  },
+
+  "spanish": "Spanish (Español)",
+  "@spanish": {
+    "description": "The language spanish"
+  },
+
+  "portuguese": "Portuguese (Português)",
+  "@portuguese": {
+    "description": "The language portuguese"
+  },
+
+  "email_or_username_placeholder": "E-Mail or username",
+  "@email_or_username_placeholder": {
+    "description": "The placeholder for the email/username text field at the log in page"
+  },
+
+  "username_placeholder": "Username",
+  "@username_placeholder": {
+    "description": "The placeholder for the username text field at the register page"
+  },
+
+  "email_placeholder": "E-Mail",
+  "@email_placeholder": {
+    "description": "The placeholder for the email text field at the register page"
+  },
+
+  "password_placeholder": "Password",
+  "@password_placeholder": {
+    "description": "The placeholder for the password text field at the log in/register page"
+  },
+
+  "confirm_password_placeholder": "Confirm password",
+  "@confirm_password_placeholder": {
+    "description": "The placeholder for the confirm password text field at the register page"
+  },
+
+  "login_button": "Login",
+  "@login_button": {
+    "description": "The text for the log in button"
+  },
+
+  "login_with_password_button": "Login with password",
+  "@login_with_password_button": {
+    "description": "The text for the log in with password button"
+  },
+
+  "login_without_password_button": "Login with passkey",
+  "@login_without_password_button": {
+    "description": "The text for the log in without password button"
+  },
+
+
+  "register_button": "Register",
+  "@register_button": {
+    "description": "The text for the register button"
+  },
+
+  "confirmation_code_placeholder": "Confirmation code",
+  "@confirmation_code_placeholder": {
+    "description": "The placeholder for the confirmation code text field"
+  },
+
+
+  "continue_without_login_button": "Continue without login",
+  "@continue_without_login_button": {
+    "description": "The text for the continue without login button"
+  },
+
+  "settings_page_title": "Settings",
+  "@settings_page_title": {
+    "description": "The title of the settings page"
+  },
+
+  "change_theme_button": "Change theme",
+  "@change_theme_button": {
+    "description": "The text for the change theme button at the settings page"
+  },
+
+  "change_language": "Change language",
+  "@change_language_button": {
+    "description": "The text for the change language button at the settings page and the title of the change language page"
+  },
+
+  "current_password_placeholder": "Current password",
+  "@current_password": {
+    "description": "The placeholder for the current password text field at all the change pages"
+  },
+
+  "profile_page_title": "Profile",
+  "@profile_page_title": {
+    "description": "The title for the profile page"
+  },
+
+  "change_username": "Change username",
+  "@change_username": {
+    "description": "The text for the change username button at the profile page and the title for the change username page"
+  },
+
+  "new_username_placeholder": "New username",
+  "@new_username_placeholder": {
+    "description": "The placeholder for the new username text field at the change username page"
+  },
+
+  "change_email": "Change E-Mail",
+  "@change_email": {
+    "description": "The text for the change email button at the profile page and the title for the change email page"
+  },
+
+  "new_email_placeholder": "New E-Mail address",
+  "@new_email_placeholder": {
+    "description": "The placeholder for the new email text field at the change username page"
+  },
+
+  "change_password": "Change password",
+  "@change_password": {
+    "description": "The text for the change password button at the profile page and the title for the change password page"
+  },
+
+  "new_password_placeholder": "New password",
+  "@new_password_placeholder": {
+    "description": "The placeholder for the new password text field at the change password page"
+  },
+
+  "confirm_new_password_placeholder": "Confirm new password",
+  "@confirm_new_password_placeholder": {
+    "description": "The placeholder for the confirm new password text field at the change password page"
+  },
+
+  "logout_button": "Logout",
+  "@logout_button": {
+    "description": "The text for the logout button"
+  },
+
+  "account_already_exists_error": "An account with this e-mail address already exists",
+  "@account_already_exists_error": {
+    "description": "The error text when the user tries to register an account that already exists"
+  },
+
+  "username_to_short_error": "The username has to consist of 4 to 50 characters",
+  "@username_to_short_error": {
+    "description": "The error text when the username is to short"
+  },
+
+  "not_valid_email_address_error": "Please enter a valid email address",
+  "@not_valid_email_address_error": {
+    "description": "The error text when the entered email address is not valid"
+  },
+
+  "not_valid_password_error": "The password must have\n- 8 - 40 characters\n- at least 1 upper case letter\n- at least 1 lower case letter\n- at least 1 symbol\n- at least 1 number\n- no space",
+  "@not_valid_password_error": {
+    "description": "The error text when the password does not meet the requirements"
+  },
+
+  "passwords_do_not_match_error": "The passwords do not match",
+  "@passwords_do_not_match_error": {
+    "description": "The error text when the password does not match with the confirmation password"
+  },
+
+  "change_button": "Change",
+  "@change_button": {
+    "description": "The text for the change button"
+  },
+
+  "yes": "Yes",
+  "@yes": {
+    "description": "Yes"
+  },
+
+  "no": "No",
+  "@no": {
+    "description": "No"
+  },
+
+  "delete_account": "Delete account",
+  "@delete_account": {
+    "description": "The text for the delete account button and for the alert dialog"
+  },
+
+  "sure_delete_account_question": "Are you sure you want to delete your account?",
+  "@sure_delete_account_question": {
+    "description": "The question that asks the user if he is sure that he wants to delete his account"
+  },
+
+  "audios_title": "Audios",
+  "@audios_title": {
+    "description": "The title for the audios drawer"
+  }
+
+}

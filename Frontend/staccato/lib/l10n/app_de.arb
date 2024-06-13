@@ -1,0 +1,81 @@
+{
+  "language": "Deutsch",
+
+  "english": "Englisch (English)",
+
+  "german": "Deutsch",
+
+  "spanish": "Spanisch (Español)",
+
+  "portuguese": "Portugiesisch (Português)",
+
+  "email_or_username_placeholder": "E-Mail oder Username",
+
+  "username_placeholder": "Username",
+
+  "email_placeholder": "E-Mail",
+
+  "password_placeholder": "Passwort",
+
+  "confirm_password_placeholder": "Passwort beschtätigen",
+
+  "login_button": "Einloggen",
+
+  "login_with_password_button": "Ohne Passwort einloggen",
+
+  "login_without_password_button": "Mit Passkey einloggen",
+
+  "register_button": "Registrieren",
+
+  "confirmation_code_placeholder": "Bestätigungscode",
+
+  "continue_without_login_button": "Ohne einloggen fortfahren",
+
+  "settings_page_title": "Einstellungen",
+
+  "change_theme_button": "Theme ändern",
+
+  "change_language": "Sprache ändern",
+
+  "current_password_placeholder": "Aktuelles Passwort",
+
+  "profile_page_title": "Profil",
+
+  "change_username": "Username ändern",
+
+  "new_username_placeholder": "Neuer Username",
+
+  "change_email": "E-Mail ändern",
+
+  "new_email_placeholder": "Neu E-Mail Adresse",
+
+  "change_password": "Passwort ändern",
+
+  "new_password_placeholder": "Neues Passwort",
+
+  "confirm_new_password_placeholder": "Neues Passwort bestätigen",
+
+  "logout_button": "Ausloggen",
+
+  "account_already_exists_error": "Es existiert bereits ein Account mit dieser E-Mail Addresse",
+
+  "username_to_short_error": "Der Username muss aus 4 bis 50 Zeichen bestehen",
+
+  "not_valid_email_address_error": "Bitte gib eine gültige E-Mail Adresse ein",
+
+  "not_valid_password_error": "Das Passwort muss \n- 8 - 40 Zeichen haben\n- mind. 1 Großbuchstaben\n- mind. 1 Kleinbuchstaben\n- mind. 1 Sonderzeichen\n- mind. 1 Zahl\n- von Leerzeichen befreit\nsein",
+
+  "passwords_do_not_match_error": "Die Passwörter stimmen nicht überein",
+
+  "change_button": "Ändern",
+
+  "yes": "Ja",
+
+  "no": "Nein",
+
+  "delete_account": "Account löschen",
+
+  "sure_delete_account_question": "Bist du dir sicher, dass du deinen Account löschen möchtest?",
+
+  "audios_title": "Audios"
+}

@@ -1,0 +1,15 @@
+100 - Informationen
+200 - OK
+	201 - Account created
+	204 - No content
+	227 - Confirmation code sent
+300 - Umleitung
+400 - Cleint Fehler
+	401 - Unauthorzed: Password/Confirmation code incorrect
+	404 - Data not found
+	405 - Account not found
+	409 - Account already exists
+500 - Server Fehler	
+	503 - Database server offline
+	512 - Database request failed
+	514 - Failed to send E-Mail

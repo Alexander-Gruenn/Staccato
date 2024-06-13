@@ -1,0 +1,81 @@
+{
+  "language": "Español",
+
+  "english": "Inglés (English)",
+
+  "german": "Alemán (Deutsch)",
+
+  "spanish": "Español",
+
+  "portuguese": "Portugués (Português)",
+
+  "email_or_username_placeholder": "Correo electrónico o nombre de usuario",
+
+  "username_placeholder": "Nombre de usuario",
+
+  "email_placeholder": "Correo electrónico",
+
+  "password_placeholder": "Contraseña",
+
+  "confirm_password_placeholder": "Confirmar contraseña",
+
+  "login_button": "Iniciar sesión",
+
+  "login_with_password_button": "Conectarse sin contraseña",
+
+  "login_without_password_button": "Iniciar sesión con Passkey",
+
+  "register_button": "Registrar",
+
+  "confirmation_code_placeholder": "Código de verificación",
+
+  "continue_without_login_button": "Continuar sin iniciar sesión",
+
+  "settings_page_title": "Parámetros",
+
+  "change_theme_button": "Cambiar de tema",
+
+  "change_language": "Cabiar de idioma",
+
+  "current_password_placeholder": "Contraseña actual",
+
+  "profile_page_title": "Perfil",
+
+  "change_username": "Cambiar nombre de usuario",
+
+  "new_username_placeholder": "Nuevo nombre de usuario",
+
+  "change_email": "Cambiar correo electrónico",
+
+  "new_email_placeholder": "Nuevo correo electrónico ",
+
+  "change_password": "Cambiar contraseña",
+
+  "new_password_placeholder": "Nueva contraseña",
+
+  "confirm_new_password_placeholder": "Confirmar nueva contraseña",
+
+  "logout_button": "Cerrar sesión",
+
+  "account_already_exists_error": "Ya existe una cuenta con esta dirección de correo electrónico",
+
+  "username_to_short_error": "El nombre de usuario debe tener entre 4 y 50 caracteres",
+
+  "not_valid_email_address_error": "Introduzca una dirección de correo electrónico válida, por favor",
+
+  "not_valid_password_error": "La contraseña debe\n- tener entre 8 y 40 caracteres\n- al menos 1 mayúscula\n- al menos 1 letra minúscula\n- al menos 1 carácter especial\n- al menos 1 número\n- no tener espacios\ntener",
+
+  "passwords_do_not_match_error": "Las contraseñas no coinciden",
+
+  "change_button": "Cambiar",
+
+  "yes": "Sí",
+
+  "no": "No",
+
+  "delete_account": "Eliminar cuenta",
+
+  "sure_delete_account_question": "¿Está seguro de que desea eliminar su cuenta?",
+
+  "audios_title": "Audios"
+}

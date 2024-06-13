@@ -1,0 +1,81 @@
+{
+  "language": "Português",
+
+  "english": "Inglês (English)",
+
+  "german": "Alemão (Deutsch)",
+
+  "spanish": "Espanhol (Español)",
+
+  "portuguese": "Português",
+
+  "email_or_username_placeholder": "E-mail ou nome de usuário",
+
+  "username_placeholder": "Nome do usuário",
+
+  "email_placeholder": "E-Mail",
+
+  "password_placeholder": "Senha",
+
+  "confirm_password_placeholder": "Confirmar senha",
+
+  "login_button": "Fazer login",
+
+  "login_with_password_button": "Fazer login sem senha",
+
+  "login_without_password_button": "Fazer login com a Passkey",
+
+  "register_button": "Registro",
+
+  "confirmation_code_placeholder": "Código de verificação",
+
+  "continue_without_login_button": "Continuar sem fazer login",
+
+  "settings_page_title": "Parâmetros",
+
+  "change_theme_button": "Mudança de assunto",
+
+  "change_language": "Idioma cabiar",
+
+  "current_password_placeholder": "Senha atual",
+
+  "profile_page_title": "Perfil",
+
+  "change_username": "Alterar o nome do usuário",
+
+  "new_username_placeholder": "Novo nome de usuário",
+
+  "change_email": "Alterar o endereço de e-mail",
+
+  "new_email_placeholder": "Novo e-mail",
+
+  "change_password": "Alterar senha",
+
+  "new_password_placeholder": "Nova senha",
+
+  "confirm_new_password_placeholder": "Confirmar a nova senha",
+
+  "logout_button": "Sair",
+
+  "account_already_exists_error": "Já existe uma conta com esse e-mail",
+
+  "username_to_short_error": "O nome de usuário deve ter entre 4 e 50 caracteres",
+
+  "not_valid_email_address_error": "Digite um endereço de e-mail válido",
+
+  "not_valid_password_error": "A senha deve\n- ter entre 8 e 40 caracteres\n- pelo menos uma letra maiúscula\n- pelo menos uma letra minúscula\n- pelo menos um caractere especial\n- pelo menos um número\n- não ter espaços\ntêm",
+
+  "passwords_do_not_match_error": "As senhas não correspondem",
+
+  "change_button": "Alteração",
+
+  "yes": "Sim",
+
+  "no": "Não",
+
+  "delete_account": "Excluir conta",
+
+  "sure_delete_account_question": "Tem certeza de que deseja excluir sua conta?",
+
+  "audios_title": "Áudios"
+}
